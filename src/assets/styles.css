@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.shopping-cart {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    height: 70%;
+    width: 95%;
+    border-radius: 18px;
+}
+
+.heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: gray;
+    text-align: center;
+    word-spacing: 2px;
+    font-size: 1.8em;
+    position: relative;
+    top: 2rem;
+}

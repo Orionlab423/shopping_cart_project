@@ -1,0 +1,23 @@
+{
+  "name": "shopping_cart_project",
+  "version": "1.0.0",
+  "description": "shopping cart built with html, css, javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shopping_cart_project.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "\"\"",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.2"
+  }
+}
